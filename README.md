@@ -106,7 +106,7 @@ go install golang.org/x/tools/cmd/godoc@latest
 godoc -http=:6060
 ```
 
-Далее открыть <http://localhost:6060/pkg/lab4-variant06/pkg/waterbill/>
+Далее открыть <http://localhost:6060/pkg/github.com/cabuboss/lab4-variant06/pkg/waterbill/>
 
 ## Проверки
 

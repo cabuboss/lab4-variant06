@@ -9,7 +9,7 @@ import (
 	"github.com/fatih/color"
 	"github.com/google/uuid"
 
-	"lab4-variant06/pkg/waterbill"
+	"github.com/cabuboss/lab4-variant06/pkg/waterbill"
 )
 
 func main() {

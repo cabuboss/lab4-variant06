@@ -1,4 +1,4 @@
-module lab4-variant06
+module github.com/cabuboss/lab4-variant06
 
 go 1.25.0
 
